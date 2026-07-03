@@ -1,6 +1,6 @@
 # Hello there, I'm Gabriel Santiago! 👨‍💻🚀
 
-**Computational Robotics Engineering Student | Python Backend & Edge AI Developer**
+**Computational Robotics Engineering Student | Python Developer**
 
 I combine engineering discipline with Object-Oriented Programming (OOP) and Clean Code principles to architect robust databases, automated tools, and data-driven applications. I am a proactive problem-solver with a passion for process automation and building high-impact technical solutions for fast-paced environments.
 
