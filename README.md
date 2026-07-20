@@ -6,7 +6,7 @@ I combine engineering discipline with Object-Oriented Programming (OOP) and Clea
 
 ### 🔭 What I'm currently working on
 *   ❄️ **Project Snow:** Actively developing the backend infrastructure and hardware integration for this autonomous Edge AI node.
-*   🗄️ **Database Architecture:** Deepening my knowledge in relational databases and advanced **PostgreSQL**.
+*   🗄️ **Database Architecture:** Deepening my knowledge in relational databases and **PostgreSQL**.
 *   💼 **Seeking Opportunities:** Exploring professional internship opportunities starting September 2026.
 
 ### 🏆 Featured Projects
